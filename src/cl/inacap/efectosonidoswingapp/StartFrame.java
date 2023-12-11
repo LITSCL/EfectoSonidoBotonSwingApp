@@ -10,7 +10,6 @@ import java.awt.event.ActionEvent;
 import java.applet.AudioClip;
 
 public class StartFrame extends JFrame {
-
 	private JPanel contentPane;
 	private JButton btnBoton;
 
